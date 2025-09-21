@@ -5,7 +5,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 - 🌱 I’m currently working on **RPA**
-- 📫 How to reach me **juie@asmedu.org**
+- 📫 How to reach me **juiedeshmukh86@gmail.com**
 - 💬 Ask me about **Testing**
 - 😄 Pronounce : **She/Her**
 
@@ -55,7 +55,7 @@
 <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
 
 <p align="center">
-  Made with :heart: &nbsp;by Juie Deshmukh
+  Made with :: &nbsp;by Juie Deshmukh
   <br />
   <br />
 </p>
